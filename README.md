@@ -1,5 +1,28 @@
 
-![Env](https://drive.google.com/uc?export=view&id=1YyD3WqApaHckR9WxrxWlEoVqUBQQaQ_m)
+## 📸 Screenshots
+
+### Screenshot 1
+![Screenshot 1](https://drive.google.com/uc?export=view&id=1EuuCcOpKAxQJ3JPUIsqj0kpI4jykEIjE)
+
+---
+
+### Screenshot 2
+![Screenshot 2](https://drive.google.com/uc?export=view&id=1dAW8zM7pblmtlD4PA-QyDNwc9oGIannI)
+
+---
+
+### Screenshot 3
+![Screenshot 3](https://drive.google.com/uc?export=view&id=1YyD3WqApaHckR9WxrxWlEoVqUBQQaQ_m)
+
+---
+
+### Screenshot 4
+![Screenshot 4](https://drive.google.com/uc?export=view&id=1eA4GjO5dcpq8d3ltzOCxJikmzdqgALTU)
+
+---
+
+### Screenshot 5
+![Screenshot 5](https://drive.google.com/uc?export=view&id=1Kdy8fEGzuxSd2_cdQNX5LyaZvm_jjdVc)
 
 
 ### Make sure to create a `.env` file with following variables -
